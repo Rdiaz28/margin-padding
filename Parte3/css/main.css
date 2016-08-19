@@ -1,1 +1,6 @@
-/* Agrega aqui tu CSS */
+div {
+border: 2px solid #EC5616;
+width: 200px;
+padding: 10px;
+margin : 0;
+}
